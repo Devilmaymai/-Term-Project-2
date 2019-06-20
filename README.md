@@ -92,7 +92,7 @@ Confidence:預測物件 bounding box 之信心水準
 ### Data augmentation(trail 4)
 我們採用改變色調的方式進行資料增強，如下圖，將資料擴充成四倍並重新產生TFRecord檔。
 
-![](https://imgur.com/undefined.png)
+![](https://imgur.com/xJm3mdG.png)
 
 訓練完預測的結果如下。可以看到結果並沒有比最初的結果好。(submission4)
 
